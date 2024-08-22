@@ -1,5 +1,3 @@
-### `README.md`
-
 ```markdown
 # Web3 Voting Application
 
