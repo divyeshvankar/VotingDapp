@@ -1,4 +1,3 @@
-```markdown
 # Web3 Voting Application
 
 ## Overview
