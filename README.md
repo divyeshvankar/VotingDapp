@@ -1,3 +1,7 @@
+I've updated the `README.md` to include the deployment link:
+
+---
+
 ### `README.md`
 
 ```markdown
@@ -72,6 +76,7 @@ This project is a Web3-based voting system that utilizes blockchain technology t
 
 7. **Access the Application**:
    - Open your browser and navigate to `http://localhost:3000`.
+   - Or visit the deployed version at [https://votingdv.netlify.app/](https://votingdv.netlify.app/).
 
 ## API Endpoints
 
@@ -83,9 +88,3 @@ This project is a Web3-based voting system that utilizes blockchain technology t
 
 - **POST /api/candidate-verification**
   - Verifies the candidate's gender and checks for any party clashes.
-
-## License
-
-This project is licensed under the MIT License.
-```
-
