@@ -1,7 +1,3 @@
-I've updated the `README.md` to include the deployment link:
-
----
-
 ### `README.md`
 
 ```markdown
